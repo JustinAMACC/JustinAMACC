@@ -39,10 +39,11 @@
 > - Data Structures
 > - Cyber Security
 > - CCNA Certified
+> - Git Proficient
 > - Graphic Designer, Animator, Video Editor, and Voice Actor
 > - Fluent English Speaker
 > - Experienced Leader
-
+> - Others
 
 
 
