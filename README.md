@@ -35,6 +35,14 @@
 > - C++   🔴🔴⭕⭕⭕
 > - Assembly 🔴⭕⭕⭕⭕
 > ---
+> # Others
+> - Data Structures
+> - Cyber Security
+> - CCNA Certified
+> - Graphic Designer, Animator, Video Editor, and Voice Actor
+> - Fluent English Speaker
+> - Experienced Leader
+
 
 
 
